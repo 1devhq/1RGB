@@ -6,7 +6,7 @@ Thank you for considering contributing to 1RGB! Developing this project has made
 
 ---
 
-## 🛠️ Development Areas
+## Development Areas
 
 Our ecosystem is strictly divided into three distinct layers based on language and responsibility:
 
@@ -27,7 +27,7 @@ Our ecosystem is strictly divided into three distinct layers based on language a
 
 ---
 
-## 🚀 Pull Requests
+## Pull Requests
 
 When opening a Pull Request against the `main` or `dev` branch, please make sure to include:
 
@@ -37,7 +37,7 @@ When opening a Pull Request against the `main` or `dev` branch, please make sure
 
 ---
 
-## ⚖️ General Guidelines, Ownership & License
+## General Guidelines, Ownership & License
 
 *   Keep code readable and document all new features or APIs.
 *   Avoid breaking existing core interfaces.
