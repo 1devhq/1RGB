@@ -1,0 +1,80 @@
+# =========================
+# macOS
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Xcode
+# =========================
+
+DerivedData/
+.build/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# =========================
+# CMake
+# =========================
+
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+compile_commands.json
+install_manifest.txt
+
+# =========================
+# C
+# =========================
+
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# (optional)
+!.vscode/settings.json
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# Temporary
+# =========================
+
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# =========================
+# Lua
+# =========================
+
+luac.out
